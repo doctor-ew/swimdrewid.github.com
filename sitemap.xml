@@ -1,11 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://swimdrewid.github.com//github/</loc>
-        <lastmod>2012-04-13T12:32:46-07:00</lastmod>
+        <loc>http://swimdrewid.github.com/codemonkey/blog/2012/04/13/haldo/</loc>
+        <lastmod>2012-04-13T14:44:30-07:00</lastmod>
     </url>
     <url>
-        <loc>http://swimdrewid.github.com//github/blog/archives/</loc>
-        <lastmod>2012-04-13T12:32:46-07:00</lastmod>
+        <loc>http://swimdrewid.github.com/codemonkey/</loc>
+        <lastmod>2012-04-13T14:44:30-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://swimdrewid.github.com/codemonkey/blog/archives/</loc>
+        <lastmod>2012-04-13T14:44:30-07:00</lastmod>
     </url>
 </urlset>
