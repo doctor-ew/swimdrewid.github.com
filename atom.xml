@@ -4,7 +4,7 @@
   <title><![CDATA[Ramblings of a codemonkey]]></title>
   <link href="http://swimdrewid.github.com/atom.xml" rel="self"/>
   <link href="http://swimdrewid.github.com/"/>
-  <updated>2012-04-17T08:10:10-07:00</updated>
+  <updated>2012-04-17T08:25:51-07:00</updated>
   <id>http://swimdrewid.github.com/</id>
   <author>
     <name><![CDATA[drew.schillinger]]></name>
@@ -22,7 +22,11 @@
 
 <p>I really have nothing to say on a blog. I just wanted to see how difficult it was to install ruby, rvm, jekyll and octopress and then CNAME github to a custom subdomain.</p>
 
-<h2>Been there, done that!</h2>
+<p>Not certain I like the fact that I lost my CNAME this a.m. And then had to recompile octopress.</p>
+
+<p>Nor am I certain that I have the whole git push to <a href="https://github.com/swimdrewid/swimdrewid.github.com">https://github.com/swimdrewid/swimdrewid.github.com</a> down.</p>
+
+<p>But, at least I got this far!</p>
 ]]></content>
   </entry>
   
