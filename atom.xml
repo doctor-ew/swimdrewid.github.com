@@ -4,7 +4,7 @@
   <title><![CDATA[Ramblings of a codemonkey]]></title>
   <link href="http://swimdrewid.github.com/atom.xml" rel="self"/>
   <link href="http://swimdrewid.github.com/"/>
-  <updated>2012-04-17T13:08:28-07:00</updated>
+  <updated>2012-04-17T14:35:55-07:00</updated>
   <id>http://swimdrewid.github.com/</id>
   <author>
     <name><![CDATA[drew.schillinger]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[how i began to enjoy writing documentation]]></title>
+    <link href="http://swimdrewid.github.com/blog/2012/04/17/how-i-began-to-enjoy-writing-documentation/"/>
+    <updated>2012-04-17T14:30:00-07:00</updated>
+    <id>http://swimdrewid.github.com/blog/2012/04/17/how-i-began-to-enjoy-writing-documentation</id>
+    <content type="html"><![CDATA[<p>I find writing documentation to be a soul-sucking, tedious activity. And I was dragging my feet on getting started on my task at hand last week.</p>
+
+<p>So, I spent a few hours setting up <a href="http://jekyllbootstrap.com/">jekyll-bootstrap</a> on my test machine, and now I get to play with a new (to me) technology and language (markup) instead of daydreaming whilst documenting away!</p>
+
+<p>Plus, I love <a href="http://www.sublimetext.com/2">sublime text 2</a>&#8217;s support for sftp and markdown (along with so many more technologies)</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[a-math-love-haiku-to-my-missus]]></title>
