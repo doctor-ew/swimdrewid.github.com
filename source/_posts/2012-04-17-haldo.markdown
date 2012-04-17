@@ -1,0 +1,12 @@
+---
+layout: post
+title: "haldo"
+date: 2012-04-17 07:54
+comments: true
+categories: 
+---
+Is this thing on?
+
+I really have nothing to say on a blog. I just wanted to see how difficult it was to install ruby, rvm, jekyll and octopress and then CNAME github to a custom subdomain.
+
+## Been there, done that ##
