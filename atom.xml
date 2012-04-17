@@ -4,7 +4,7 @@
   <title><![CDATA[Ramblings of a codemonkey]]></title>
   <link href="http://swimdrewid.github.com/atom.xml" rel="self"/>
   <link href="http://swimdrewid.github.com/"/>
-  <updated>2012-04-17T09:12:29-07:00</updated>
+  <updated>2012-04-17T13:04:27-07:00</updated>
   <id>http://swimdrewid.github.com/</id>
   <author>
     <name><![CDATA[drew.schillinger]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[a-math-love-haiku-to-my-missus]]></title>
+    <link href="http://swimdrewid.github.com/blog/2012/04/17/a-math-love-haiku-to-my-missus/"/>
+    <updated>2012-04-17T12:59:00-07:00</updated>
+    <id>http://swimdrewid.github.com/blog/2012/04/17/a-math-love-haiku-to-my-missus</id>
+    <content type="html"><![CDATA[<p>I posted a math haiku for the missus :</p>
+
+<p>What is your sine, girl?
+It&#8217;s . divided by 2
+&#8216;Cause you are the 1</p>
+
+<p>&lt;3</p>
+
+<p>(because sin(&pi;/2) = 1)</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[something of that ilk is the cat's milk]]></title>
