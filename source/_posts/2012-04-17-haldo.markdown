@@ -10,4 +10,8 @@ categories:
 
 I really have nothing to say on a blog. I just wanted to see how difficult it was to install ruby, rvm, jekyll and octopress and then CNAME github to a custom subdomain.
 
-## Been there, done that! ##
+Not certain I like the fact that I lost my CNAME this a.m. And then had to recompile octopress.
+
+Nor am I certain that I have the whole git push to <https://github.com/swimdrewid/swimdrewid.github.com> down.
+
+But, at least I got this far!
