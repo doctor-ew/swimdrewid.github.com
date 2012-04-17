@@ -4,7 +4,7 @@
   <title><![CDATA[Ramblings of a codemonkey]]></title>
   <link href="http://swimdrewid.github.com/atom.xml" rel="self"/>
   <link href="http://swimdrewid.github.com/"/>
-  <updated>2012-04-17T08:25:51-07:00</updated>
+  <updated>2012-04-17T09:04:34-07:00</updated>
   <id>http://swimdrewid.github.com/</id>
   <author>
     <name><![CDATA[drew.schillinger]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[browsers]]></title>
+    <link href="http://swimdrewid.github.com/blog/2012/04/17/browsers/"/>
+    <updated>2012-04-17T09:01:00-07:00</updated>
+    <id>http://swimdrewid.github.com/blog/2012/04/17/browsers</id>
+    <content type="html"><![CDATA[<p>I need to meet this guy and buy him a beer</p>
+
+<h3>broswers</h3>
+
+<p><img src="http://www.somethingofthatilk.com/index.php?id=400"></p>
+
+<h3>Programming Languages</h3>
+
+<p><img src="http://www.somethingofthatilk.com/index.php?id=135"></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[haldo]]></title>
