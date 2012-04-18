@@ -4,7 +4,7 @@
   <title><![CDATA[Ramblings of a codemonkey]]></title>
   <link href="http://swimdrewid.github.com/atom.xml" rel="self"/>
   <link href="http://swimdrewid.github.com/"/>
-  <updated>2012-04-17T18:27:55-07:00</updated>
+  <updated>2012-04-18T06:56:38-07:00</updated>
   <id>http://swimdrewid.github.com/</id>
   <author>
     <name><![CDATA[drew.schillinger]]></name>
@@ -14,13 +14,15 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Look Ma]]></title>
-    <link href="http://swimdrewid.github.com/blog/2012/04/17/look-ma/"/>
+    <title type="html"><![CDATA[Look Ma, no Computer]]></title>
+    <link href="http://swimdrewid.github.com/blog/2012/04/17/look-ma-no-computer/"/>
     <updated>2012-04-17T18:25:00-07:00</updated>
-    <id>http://swimdrewid.github.com/blog/2012/04/17/look-ma</id>
+    <id>http://swimdrewid.github.com/blog/2012/04/17/look-ma-no-computer</id>
     <content type="html"><![CDATA[<h2>got android?</h2>
 
-<p>ssh&#8217;d in from the epic</p>
+<p>ssh&#8217;d in from the epic.</p>
+
+<p>end transmission</p>
 ]]></content>
   </entry>
   
@@ -46,7 +48,7 @@
 
 <blockquote><p>What is your sine, girl?</p>
 
-<p>It&#8217;s &amp;pi divided by 2</p>
+<p>It&#8217;s &pi; divided by 2</p>
 
 <p>&#8216;Cause you are the 1</p></blockquote>
 
@@ -103,6 +105,24 @@
 <p>Nor am I certain that I have the whole git push to <a href="https://github.com/swimdrewid/swimdrewid.github.com">https://github.com/swimdrewid/swimdrewid.github.com</a> down.</p>
 
 <p>But, at least I got this far!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[A Math Lovw Haiku To My Missus.markdown.save]]></title>
+    <link href="http://swimdrewid.github.com/blog/2012/04/17/a-math-lovw-haiku-to-my-missus.markdown.save/"/>
+    <updated>2012-04-17T00:00:00-07:00</updated>
+    <id>http://swimdrewid.github.com/blog/2012/04/17/a-math-lovw-haiku-to-my-missus.markdown.save</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[A Math Lovw Haiku To My Missus.markdown]]></title>
+    <link href="http://swimdrewid.github.com/blog/2012/04/17/a-math-lovw-haiku-to-my-missus.markdown/"/>
+    <updated>2012-04-17T00:00:00-07:00</updated>
+    <id>http://swimdrewid.github.com/blog/2012/04/17/a-math-lovw-haiku-to-my-missus.markdown</id>
+    <content type="html"><![CDATA[
 ]]></content>
   </entry>
   

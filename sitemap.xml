@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>
+            http://swimdrewid.github.com/blog/2012/04/17/a-math-lovw-haiku-to-my-missus.markdown/
+        </loc>
+        <lastmod>2012-04-17T20:01:45-07:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://swimdrewid.github.com/blog/2012/04/17/a-math-lovw-haiku-to-my-missus.markdown.save/
+        </loc>
+        <lastmod>2012-04-17T20:01:45-07:00</lastmod>
+    </url>
+    <url>
         <loc>http://swimdrewid.github.com/blog/2012/04/17/haldo/</loc>
         <lastmod>2012-04-17T13:52:08-07:00</lastmod>
     </url>
@@ -14,7 +26,7 @@
     </url>
     <url>
         <loc>http://swimdrewid.github.com/blog/2012/04/17/a-math-love-haiku-to-my-missus/</loc>
-        <lastmod>2012-04-17T13:52:08-07:00</lastmod>
+        <lastmod>2012-04-18T06:44:56-07:00</lastmod>
     </url>
     <url>
         <loc>
@@ -23,15 +35,15 @@
         <lastmod>2012-04-17T14:35:22-07:00</lastmod>
     </url>
     <url>
-        <loc>http://swimdrewid.github.com/blog/2012/04/17/look-ma/</loc>
-        <lastmod>2012-04-17T18:27:14-07:00</lastmod>
+        <loc>http://swimdrewid.github.com/blog/2012/04/17/look-ma-no-computer/</loc>
+        <lastmod>2012-04-18T06:53:44-07:00</lastmod>
     </url>
     <url>
         <loc>http://swimdrewid.github.com/</loc>
-        <lastmod>2012-04-17T18:27:14-07:00</lastmod>
+        <lastmod>2012-04-18T06:53:44-07:00</lastmod>
     </url>
     <url>
         <loc>http://swimdrewid.github.com/blog/archives/</loc>
-        <lastmod>2012-04-17T18:27:14-07:00</lastmod>
+        <lastmod>2012-04-18T06:53:44-07:00</lastmod>
     </url>
 </urlset>
