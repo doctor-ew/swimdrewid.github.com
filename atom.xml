@@ -4,7 +4,7 @@
   <title><![CDATA[Ramblings of a codemonkey]]></title>
   <link href="http://swimdrewid.github.com/atom.xml" rel="self"/>
   <link href="http://swimdrewid.github.com/"/>
-  <updated>2012-04-17T14:35:55-07:00</updated>
+  <updated>2012-04-17T18:27:55-07:00</updated>
   <id>http://swimdrewid.github.com/</id>
   <author>
     <name><![CDATA[drew.schillinger]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Look Ma]]></title>
+    <link href="http://swimdrewid.github.com/blog/2012/04/17/look-ma/"/>
+    <updated>2012-04-17T18:25:00-07:00</updated>
+    <id>http://swimdrewid.github.com/blog/2012/04/17/look-ma</id>
+    <content type="html"><![CDATA[<h2>got android?</h2>
+
+<p>ssh&#8217;d in from the epic</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[how i began to enjoy writing documentation]]></title>
@@ -59,6 +70,22 @@
 <h3>Programming Languages</h3>
 
 <p><img src="http://www.somethingofthatilk.com/comics/135.jpg"></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[something of that ilk is the cat's milk ]]></title>
+    <link href="http://swimdrewid.github.com/blog/2012/04/17/browsers.markdown/"/>
+    <updated>2012-04-17T09:01:00-07:00</updated>
+    <id>http://swimdrewid.github.com/blog/2012/04/17/browsers.markdown</id>
+    <content type="html"><![CDATA[I need to meet this guy and buy him a beer
+
+### broswers ###
+
+<img src="http://www.somethingofthatilk.com/comics/400.png">
+
+### Programming Languages ###
+<img src="http://www.somethingofthatilk.com/comcs/135.png">
 ]]></content>
   </entry>
   
