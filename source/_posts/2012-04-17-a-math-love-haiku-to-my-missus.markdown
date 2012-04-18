@@ -10,7 +10,7 @@ I posted a math haiku for the missus :
 
 > What is your sine, girl? 
 
-> It's &pi divided by 2
+> It's &pi; divided by 2
 
 > 'Cause you are the 1
 
