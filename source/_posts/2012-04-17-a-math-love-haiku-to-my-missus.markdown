@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "a-math-love-haiku-to-my-missus"
+title: "A Math Love Haiku to My Missus"
 date: 2012-04-17 12:59
 comments: true
 categories: 
