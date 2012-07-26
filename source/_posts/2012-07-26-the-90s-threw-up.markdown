@@ -38,7 +38,7 @@ categories:
 
 
 
-<divY BACKGROUND="http://www.toonwriter.com/adultswim/athf-movie/img/lb/light.gif" BGCOLOR="Silver">
+<div BACKGROUND="http://www.toonwriter.com/adultswim/athf-movie/img/lb/light.gif" BGCOLOR="Silver">
 
 <P>
 
@@ -86,7 +86,11 @@ categories:
 
 					<TD WIDTH="310" ALIGN="center" VALIGN="top"><IMG SRC="http://www.toonwriter.com/adultswim/athf-movie/img/lb/cheetah.gif"></TD>
 
-					<TD WIDTH="430" ALIGN="center" VALIGN="top" BGCOLOR="WHITE"><IFRAME SRC="lbDefault.html" ID="mediaContent" NAME="mediaContent" frameborder="1" WIDTH="340" HEIGHT="260">&nbsp;</iframe></IFRAME></TD>
+					<TD WIDTH="430" ALIGN="center" VALIGN="top" BGCOLOR="WHITE">
+<!--
+						<IFRAME SRC="http://www.toonwriter.com/adultswim/athf-movie/lbDefault.html" ID="mediaContent" NAME="mediaContent" frameborder="1" WIDTH="340" HEIGHT="260">&nbsp;</iframe></IFRAME>
+-->
+						</TD>
 
 					<TD WIDTH="110" ALIGN="center" VALIGN="top">
 
@@ -189,9 +193,9 @@ categories:
 </TABLE>
 
 
-
+<!--
 <div id="muzak"><div id="athfMuzakFlash"><EMBED SRC="http://www.toonwriter.com/adultswim/athf-movie/midi.swf?id=athf_Muzak_001&dir=1&autoPlay=true" /></div></div>
-
+-->
 </DIV>
 <script language="JavaScript" type="text/javascript">
 
