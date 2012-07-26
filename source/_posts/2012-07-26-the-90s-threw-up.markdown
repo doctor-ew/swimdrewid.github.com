@@ -7,11 +7,6 @@ categories:
 ---
 
 
-<HTML>
-
-<HEAD>
-
-<TITLE>[adult swim] | aqua teen hunger force colon movie film for theaters - Low Bandwidth</TITLE>
 
 	<SCRIPT SRC="http://www.toonwriter.com/adultswim/athf-movie/tools/js/main.js"></SCRIPT>
 
@@ -68,7 +63,6 @@ categories:
 
 </style>
 
-</HEAD>
 
 
 
@@ -255,7 +249,6 @@ as_athfMuzak_fo.write("muzak");
 
 </BODY>
 
-</HTML>
 
 
 
