@@ -4,7 +4,7 @@
   <title><![CDATA[Ramblings of a codemonkey]]></title>
   <link href="http://swimdrewid.github.com/atom.xml" rel="self"/>
   <link href="http://swimdrewid.github.com/"/>
-  <updated>2012-07-26T10:27:45-07:00</updated>
+  <updated>2012-07-26T10:32:25-07:00</updated>
   <id>http://swimdrewid.github.com/</id>
   <author>
     <name><![CDATA[drew.schillinger]]></name>
@@ -18,13 +18,7 @@
     <link href="http://swimdrewid.github.com/blog/2012/07/26/the-90s-threw-up/"/>
     <updated>2012-07-26T09:29:00-07:00</updated>
     <id>http://swimdrewid.github.com/blog/2012/07/26/the-90s-threw-up</id>
-    <content type="html"><![CDATA[<p><HTML></p>
-
-<p><HEAD></p>
-
-<p><TITLE>[adult swim] | aqua teen hunger force colon movie film for theaters - Low Bandwidth</TITLE></p>
-
-<pre><code>&lt;SCRIPT SRC="http://www.toonwriter.com/adultswim/athf-movie/tools/js/main.js"&gt;&lt;/SCRIPT&gt;
+    <content type="html"><![CDATA[<pre><code>&lt;SCRIPT SRC="http://www.toonwriter.com/adultswim/athf-movie/tools/js/main.js"&gt;&lt;/SCRIPT&gt;
 
 &lt;SCRIPT SRC="http://www.adultswim.com/tools/js/utilities.js"&gt;&lt;/SCRIPT&gt;
 
@@ -55,8 +49,6 @@ function hideMe(sDivId){
 </code></pre>
 
 
-
-<p></HEAD></p>
 
 <p><BODY BACKGROUND="http://www.toonwriter.com/adultswim/athf-movie/img/lb/light.gif" BGCOLOR="Silver"></p>
 
@@ -240,8 +232,6 @@ as_athfMuzak_fo.write("muzak");
 
 
 </BODY>
-
-</HTML>
 
 ]]></content>
   </entry>
