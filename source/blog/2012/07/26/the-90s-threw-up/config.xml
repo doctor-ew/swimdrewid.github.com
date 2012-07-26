@@ -1,0 +1,21 @@
+<go_right>
+  <objects>
+    <voice type="event" start="9000" id="5" />
+    <hole x="51000" />
+    <voice type="event" start="500" id="2" />
+    <monster x="54000" />
+    <tv x="10500" y="290" />
+    <tv x="108000" y="320" />
+    <SandM x="107000" />
+    <log x="10000" />
+    <log x="20000" />
+    <log x="20600" />
+    <log x="21200" />
+    <log x="21800" />
+    <log x="22400" />
+    <log x="23000" />
+    <voice type="loop" start="11000" end="45000" />
+    <voice type="loop" start="60000" end="100000" />
+  </objects>
+  <movie src="http://pdl.stream.aol.com/turner/gl/cartoon_net/adultswim/player2/022107_dl.flv" />
+</go_right>
