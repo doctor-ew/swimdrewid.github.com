@@ -8,34 +8,6 @@ categories:
 
 
 
-	<SCRIPT SRC="http://www.toonwriter.com/adultswim/athf-movie/tools/js/main.js"></SCRIPT>
-
-	<SCRIPT SRC="http://www.adultswim.com/tools/js/utilities.js"></SCRIPT>
-
-	<SCRIPT SRC="http://www.adultswim.com/toonswim_adspaces/cnn_adspaces.js"></SCRIPT>
-
-	<SCRIPT SRC="http://www.adultswim.com/tools/js/flashobject.js"></SCRIPT>
-
-	<SCRIPT SRC="http://www.adultswim.com/tools/js/toolbox.js"></SCRIPT>
-
-	<SCRIPT>
-
-
-	
-
-	function hideMe(sDivId){
-
-		oMuzak = document.getElementById(sDivId);
-
-	//	alert("oBody.className: " + oFlash.className)
-
-		oMuzak.style.display = "none";
-
-	}
-
-
-
-    </SCRIPT>
 
 <style>
 
@@ -66,7 +38,7 @@ categories:
 
 
 
-<BODY BACKGROUND="http://www.toonwriter.com/adultswim/athf-movie/img/lb/light.gif" BGCOLOR="Silver">
+<divY BACKGROUND="http://www.toonwriter.com/adultswim/athf-movie/img/lb/light.gif" BGCOLOR="Silver">
 
 <P>
 
@@ -218,12 +190,26 @@ categories:
 
 
 
-<div id="muzak">&nbsp;</div>
+<div id="muzak"><div id="athfMuzakFlash"><EMBED SRC="http://www.toonwriter.com/adultswim/athf-movie/midi.swf?id=athf_Muzak_001&dir=1&autoPlay=true" /></div></div>
 
+</DIV>
 <script language="JavaScript" type="text/javascript">
 
 
 
+
+
+	function hideMe(sDivId){
+
+		oMuzak = document.getElementById(sDivId);
+
+	//	alert("oBody.className: " + oFlash.className)
+
+		oMuzak.style.display = "none";
+
+	}
+
+/*
 var as_athfMuzak_fo = new FlashObject("http://www.toonwriter.com/adultswim/athf-movie/midi.swf?id=athf_Muzak_001&dir=1&autoPlay=true", "athfMuzakFlash", "1", "1", "8", "#000");
 
 
@@ -237,17 +223,13 @@ as_athfMuzak_fo.addParam("allowScriptAccess", "sameDomain");
 
 
 as_athfMuzak_fo.write("muzak");
-
+*/
 </script>
 
 
 
 
 
-
-
-
-</BODY>
 
 
 
