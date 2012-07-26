@@ -87,9 +87,6 @@ categories:
 					<TD WIDTH="310" ALIGN="center" VALIGN="top"><IMG SRC="http://www.toonwriter.com/adultswim/athf-movie/img/lb/cheetah.gif"></TD>
 
 					<TD WIDTH="430" ALIGN="center" VALIGN="top" BGCOLOR="WHITE">
-<!--
-						<IFRAME SRC="http://www.toonwriter.com/adultswim/athf-movie/lbDefault.html" ID="mediaContent" NAME="mediaContent" frameborder="1" WIDTH="340" HEIGHT="260">&nbsp;</iframe></IFRAME>
--->
 						</TD>
 
 					<TD WIDTH="110" ALIGN="center" VALIGN="top">
