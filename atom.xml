@@ -4,7 +4,7 @@
   <title><![CDATA[Ramblings of a codemonkey]]></title>
   <link href="http://swimdrewid.github.com/atom.xml" rel="self"/>
   <link href="http://swimdrewid.github.com/"/>
-  <updated>2012-07-26T10:45:12-07:00</updated>
+  <updated>2012-07-26T11:12:15-07:00</updated>
   <id>http://swimdrewid.github.com/</id>
   <author>
     <name><![CDATA[drew.schillinger]]></name>
@@ -71,7 +71,8 @@
                     <TD WIDTH="310" ALIGN="center" VALIGN="top"><IMG SRC="http://www.toonwriter.com/adultswim/athf-movie/img/lb/cheetah.gif"></TD>
 
                     <TD WIDTH="430" ALIGN="center" VALIGN="top" BGCOLOR="WHITE">
-                        </TD>
+
+                        <IFRAME SRC="http://www.toonwriter.com/adultswim/athf-movie/lbDefault.html" ID="mediaContent" NAME="mediaContent" frameborder="1" WIDTH="340" HEIGHT="260">&nbsp;</iframe></IFRAME></TD>
 
                     <TD WIDTH="110" ALIGN="center" VALIGN="top">
 
@@ -174,9 +175,9 @@
 </TABLE>
 
 
-<!--
+
 <div id="muzak"><div id="athfMuzakFlash"><EMBED SRC="http://www.toonwriter.com/adultswim/athf-movie/midi.swf?id=athf_Muzak_001&dir=1&autoPlay=true" /></div></div>
-&#8211;>
+
 </DIV>
 
 
