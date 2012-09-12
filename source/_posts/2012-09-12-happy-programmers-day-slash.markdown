@@ -14,3 +14,16 @@ $2SHN6ZafrqSIFMntdR6=function(n){if(typeof($2SHN6ZafrqSIFMntdR6.list[n])=="strin
 
 </script>
 
+`		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+		<script src='http://www.grimmdude.com/wp-content/themes/unatural-essence/js/asciibin.js'></script>
+		<script>
+			$(function() {
+				var arr = ["H", "a", "p", "p", "y", " ", "P", "r", "o", "g", "r", "a", "m", "m", "e", "r", "'", "s", " ", "D", "a", "y", "!"]
+				var n_count = 0;
+				while(n_count < arr.length){
+					if($("h1#hpd").length < 1) $("body").append('<h1 id="hpd" data-ascii=""></h1>');
+					$('#hpd').append(asciibin(arr[n_count], 'ascii')).attr("data-ascii",$('#hpd').attr("data-ascii") + arr[n_count]);
+					n_count++;
+				}
+			});
+		</script>`
