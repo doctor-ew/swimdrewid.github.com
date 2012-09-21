@@ -1,57 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>
-            http://swimdrewid.github.com/blog/2012/04/17/a-math-lovw-haiku-to-my-missus.markdown/
-        </loc>
-        <lastmod>2012-04-17T20:01:45-07:00</lastmod>
-    </url>
-    <url>
-        <loc>
-            http://swimdrewid.github.com/blog/2012/04/17/a-math-lovw-haiku-to-my-missus.markdown.save/
-        </loc>
-        <lastmod>2012-04-17T20:01:45-07:00</lastmod>
-    </url>
-    <url>
-        <loc>http://swimdrewid.github.com/blog/2012/04/17/haldo/</loc>
-        <lastmod>2012-04-17T13:52:08-07:00</lastmod>
-    </url>
-    <url>
-        <loc>http://swimdrewid.github.com/blog/2012/04/17/browsers.markdown/</loc>
-        <lastmod>2012-04-17T15:02:53-07:00</lastmod>
-    </url>
-    <url>
-        <loc>http://swimdrewid.github.com/blog/2012/04/17/something-of-that-ilk/</loc>
-        <lastmod>2012-04-17T13:52:08-07:00</lastmod>
-    </url>
-    <url>
-        <loc>http://swimdrewid.github.com/blog/2012/04/17/a-math-love-haiku-to-my-missus/</loc>
-        <lastmod>2012-04-18T07:10:52-07:00</lastmod>
-    </url>
-    <url>
-        <loc>
-            http://swimdrewid.github.com/blog/2012/04/17/how-i-began-to-enjoy-writing-documentation/
-        </loc>
-        <lastmod>2012-04-17T14:35:22-07:00</lastmod>
-    </url>
-    <url>
-        <loc>http://swimdrewid.github.com/blog/2012/04/17/look-ma-no-computer/</loc>
-        <lastmod>2012-04-18T06:53:44-07:00</lastmod>
-    </url>
-    <url>
-        <loc>http://swimdrewid.github.com/blog/2012/07/19/50-shades-of-grey/</loc>
-        <lastmod>2012-07-19T13:02:27-07:00</lastmod>
-    </url>
-    <url>
-        <loc>http://swimdrewid.github.com/blog/2012/07/26/the-90s-threw-up/</loc>
-        <lastmod>2012-07-26T10:49:08-07:00</lastmod>
+        <loc>http://swimdrewid.github.com/blog/2012/09/21/alloys/</loc>
+        <lastmod>2012-09-21T15:03:17-07:00</lastmod>
     </url>
     <url>
         <loc>http://swimdrewid.github.com/</loc>
-        <lastmod>2012-07-26T10:49:08-07:00</lastmod>
+        <lastmod>2012-09-21T15:03:17-07:00</lastmod>
     </url>
     <url>
         <loc>http://swimdrewid.github.com/blog/archives/</loc>
-        <lastmod>2012-07-26T10:49:08-07:00</lastmod>
+        <lastmod>2012-09-21T15:03:17-07:00</lastmod>
     </url>
 </urlset>
